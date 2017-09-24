@@ -1,6 +1,6 @@
 {
   "name": "kamikadze",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Saves youtube channel videos statistics at archive.org periodically using Youtube API #FixRussianYouTube",
   "main": "index.js",
   "engines": {
