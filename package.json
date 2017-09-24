@@ -1,0 +1,34 @@
+{
+  "name": "kamikadze",
+  "version": "0.0.1",
+  "description": "Saves youtube channel videos statistics at archive.org periodically using Youtube API #FixRussianYouTube",
+  "main": "index.js",
+  "engines": {
+    "node": ">=7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "archive",
+    "save",
+    "fixrussianyoutube"
+  ],
+  "author": "Taras Labiak <kissarat@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "archive.is": "0.0.2",
+    "request": "^2.82.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kissarat/kamikadze.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kissarat/kamikadze/issues"
+  },
+  "homepage": "https://github.com/kissarat/kamikadze#readme"
+}
